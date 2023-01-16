@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
-namespace Company.Function1
+namespace AzureTest.Function
 {
     public static class HttpExample
     {
