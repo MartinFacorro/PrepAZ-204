@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "PrepAZ_204": {
+    "AzureFunction": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7151",
+      "commandLineArgs": "--port 7186",
       "launchBrowser": false
     }
   }
